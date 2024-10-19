@@ -77,7 +77,7 @@ select {
     /* Стили для заголовков во второй секции */
     font-weight: 700;
     font-size: 24px;
-    margin: 10px 0;
+    margin: 25px 0;
 }
 
 .frameworks-list {
@@ -86,7 +86,7 @@ select {
     list-style-image: url(./assets/images/solar_map-arrow-up-bold.svg);
     font-weight: 400;
     font-size: 16px;
-    padding-left: 20px;
+    padding: 0 20px;
 }
 
 .books-list {
@@ -94,7 +94,7 @@ select {
     
     font-weight: 400;
     font-size: 16px;
-    padding-left: 20px;
+    padding: 0 20px;
 }
 
 .label {
